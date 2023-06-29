@@ -2,6 +2,4 @@
 
 Languages: HTML, CSS and JavaScript
 
-<b>Live Demo</b> 
-
-<p>Check out my <a href="https://nguyenth21.github.io/portfolio" target="_blank" rel="noopener noreferrer">Portfolio</a>.</p>
+<p>Live Demo: <a href="https://nguyenth21.github.io/portfolio" target="_blank" rel="noopener noreferrer">Check out my portfolio</a></p>
